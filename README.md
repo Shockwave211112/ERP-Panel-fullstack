@@ -13,6 +13,8 @@ REST API Backend на Laravel, простой фронт для использо
 >Кэширование через Redis
 >
 >Кастомные ошибки
+>
+>VueJS 3
 
 В config/products.php устанавливается логин и пароль администратора по умолчанию, а также почта для уведомлений и список ролей с доступом к добавлению продуктов/изменению артикулов.
 
@@ -39,5 +41,4 @@ docker compose up -d
 
 ### Вёрстка
 Сверстано согласно макету:
-
-![Макет](https://s.iimg.su/s/05/eqiul6oD8wxkceUODzz7IlzV2gtQeMAa5qF6dVJA.png)
+<img width="1457" height="1230" alt="image" src="https://github.com/user-attachments/assets/a93f65c8-426c-4a1f-b756-f5df9ba6ffd9" />
